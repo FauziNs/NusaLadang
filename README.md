@@ -82,7 +82,6 @@ Dalam menghadapi tantangan globalisasi, sektor pertanian dihadapkan pada berbaga
 Untuk informasi lebih lanjut, silakan hubungi:
 
 - **Nama:** Fauzi Noorsyabani
-- **Email:** fauzi@example.com
 - **GitHub:** [FauziNs](https://github.com/FauziNs)
 
 ---
